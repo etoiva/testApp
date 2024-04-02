@@ -1,0 +1,25 @@
+import {CategoryListType} from './components/categoryList/CategoryListCard.types';
+
+export const CategoryListData: CategoryListType[] = [
+  {price: '10 Gel', title: 'ზეთი და ფილტრები', id: 1},
+  {price: '20 Gel', title: 'კოლოფის ზეთი/ფილტრი', id: 2},
+  {price: '30 Gel', title: 'საწვავის სისტემა', id: 3},
+  {price: '40 Gel', title: 'ნათურები/აქსესუარები', id: 4},
+  {price: '50 Gel', title: 'აკუმულატორი', id: 5},
+  {price: '60 Gel', title: 'გაქირავება', id: 6},
+  {price: '70 Gel', title: 'დაზღვევა', id: 7},
+  {price: '80 Gel', title: 'ელექტროობა', id: 8},
+  {price: '90 Gel', title: 'ხუნდები/სამუხრუჭე სისტემა', id: 9},
+  {price: '100 Gel', title: 'სავალი ნაწილები', id: 10},
+  {price: '110 Gel', title: 'ანტიფრიზი/წყლის სისტემა', id: 11},
+  {price: '120 Gel', title: 'საბურავები', id: 12},
+  {price: '130 Gel', title: 'ძრავი/კოლოფი', id: 13},
+  {price: '140 Gel', title: 'შეღებვა/სათუნუქე/პოლირება', id: 14},
+  {price: '150 Gel', title: 'ინტერიერი/ექსტერიერი', id: 15},
+  {price: '160 Gel', title: 'დაზღვევა/ლიზინგი/სესხი', id: 16},
+  {price: '170 Gel', title: 'ჯარიმები/პარკირება', id: 17},
+  {price: '180 Gel', title: 'საწვავი/რეცხვა', id: 18},
+  {price: '190 Gel', title: 'Detailing', id: 19},
+  {price: '200 Gel', title: 'სიმძლავრის/ვიზუალის ტუნინგი', id: 120},
+  {price: '400 Gel', title: 'სხვა', id: 121},
+];

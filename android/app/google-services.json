@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600865669866",
+    "project_id": "test-auth-9fa3c",
+    "storage_bucket": "test-auth-9fa3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600865669866:android:2b6b16731e312f4f85cd93",
+        "android_client_info": {
+          "package_name": "com.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_fXNZtQ5vSbUvzMXfHo326UMtDFRDj70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
